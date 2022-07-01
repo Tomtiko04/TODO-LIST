@@ -13,5 +13,5 @@ Thanks for checking out this Project.
 This project is just to focus more on vue.js . It is a simple todo-list to keep record and track of your daily activities and goals.
 
 ## Author
-LinkedIn - [https://www.LinkedIn.com/ogunneyeoyinkansola.com]
--Email - [ogunneyeoyinkansola@gmail.com]
+- LinkedIn - [https://www.LinkedIn.com/ogunneyeoyinkansola.com]
+- Email - [ogunneyeoyinkansola@gmail.com]
