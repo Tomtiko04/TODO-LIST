@@ -1,4 +1,4 @@
-# Ogunneye Oyinkansola - A TODO-LIST
+# Ogunneye Oyinkansola - A TODO-LIST.
 
 ## Welcome! 👋
 Thank you for checking out this Project.
