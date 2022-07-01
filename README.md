@@ -1,7 +1,7 @@
 # Ogunneye oyinkansola - A TODO-LIST
 
 ## Welcome! 👋
-Thanks for checking out this Project.
+Thanks you for checking out this Project.
 
 ### Built with
 
